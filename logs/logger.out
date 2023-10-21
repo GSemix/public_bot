@@ -1,0 +1,580 @@
+2022-11-01 17:11:23,253 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:11:23,258 : INFO : db.py : [+] Table 'users' was created
+2022-11-01 17:11:23,260 : INFO : db.py : [+] Table 'stickers' was created
+2022-11-01 17:11:23,622 : INFO : bot.py : [=] <-START->
+2022-11-01 17:11:27,013 : INFO : bot.py : [?] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 17:11:28,201 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:11:31,536 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:13:00,920 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:13:00,923 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:13:00,923 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:13:01,301 : INFO : bot.py : [=] <-START->
+2022-11-01 17:13:04,384 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:13:05,923 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:13:05,926 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:30:03,284 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:30:03,288 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:30:03,288 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:30:03,661 : INFO : bot.py : [=] <-START->
+2022-11-01 17:30:12,486 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:31:30,781 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:31:30,789 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:31:31,811 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:31:31,811 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:31:31,812 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:31:32,179 : INFO : bot.py : [=] <-START->
+2022-11-01 17:31:34,080 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:32:00,610 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:32:00,613 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:32:01,434 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:32:01,434 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:32:01,435 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:32:01,783 : INFO : bot.py : [=] <-START->
+2022-11-01 17:32:03,618 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:32:08,206 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:32:34,030 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:32:34,033 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:32:34,841 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:32:34,842 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:32:34,842 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:32:35,141 : INFO : bot.py : [=] <-START->
+2022-11-01 17:37:42,763 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:37:42,770 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:37:43,913 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:37:43,913 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:37:43,913 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:37:44,287 : INFO : bot.py : [=] <-START->
+2022-11-01 17:38:03,598 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:40:24,868 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:40:24,871 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:40:33,988 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:40:33,989 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:40:33,989 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:40:34,282 : INFO : bot.py : [=] <-START->
+2022-11-01 17:40:37,127 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:41:06,933 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:41:06,936 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:41:07,864 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:41:07,864 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:41:07,864 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:41:08,166 : INFO : bot.py : [=] <-START->
+2022-11-01 17:41:10,067 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:49:55,063 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:49:55,070 : INFO : bot.py : [=] <-STOP->
+2022-11-01 17:49:57,878 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 17:49:57,878 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 17:49:57,878 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 17:49:58,184 : INFO : bot.py : [=] <-START->
+2022-11-01 17:50:02,005 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 17:53:34,044 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 17:53:34,046 : INFO : bot.py : [=] <-STOP->
+2022-11-01 18:08:21,962 : INFO : db.py : [+] Connecting to DB 'data/sqlite.db' (SQLite) successfuly
+2022-11-01 18:08:21,965 : INFO : db.py : [+] Table 'users' was detected
+2022-11-01 18:08:21,966 : INFO : db.py : [+] Table 'stickers' was detected
+2022-11-01 18:08:21,967 : INFO : db.py : [+] Table 'spheres' was created
+2022-11-01 18:08:22,324 : INFO : bot.py : [=] <-START->
+2022-11-01 18:08:25,224 : INFO : db.py : [+] BD with path 'data/sqlite.db' (SQLite) was closed
+2022-11-01 18:08:25,228 : INFO : bot.py : [=] <-STOP->
+2022-11-01 20:53:05,481 : INFO : bot.py : [=] <-START->
+2022-11-01 20:53:17,931 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 20:53:23,609 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 20:53:27,429 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 20:53:32,575 : INFO : bot.py : [=] <-STOP->
+2022-11-01 20:55:39,742 : INFO : bot.py : [=] <-START->
+2022-11-01 20:55:45,291 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 20:55:48,692 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 20:55:53,994 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:00:20,396 : INFO : bot.py : [=] <-START->
+2022-11-01 21:00:23,918 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 21:00:25,086 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 21:00:29,620 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:02:23,753 : INFO : bot.py : [=] <-START->
+2022-11-01 21:02:27,252 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:02:35,309 : INFO : bot.py : [=] <-START->
+2022-11-01 21:03:05,639 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:03:33,503 : INFO : bot.py : [=] <-START->
+2022-11-01 21:03:39,122 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-01 21:03:40,805 : INFO : bot.py : [+]  Info about user with id = 490483818 updated
+2022-11-01 21:04:14,874 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:24:10,608 : INFO : bot.py : [=] <-START->
+2022-11-01 21:24:57,963 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:24:59,579 : INFO : bot.py : [=] <-START->
+2022-11-01 21:25:20,544 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:25:46,558 : INFO : bot.py : [=] <-START->
+2022-11-01 21:27:38,504 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:27:40,531 : INFO : bot.py : [=] <-START->
+2022-11-01 21:30:15,957 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:30:17,439 : INFO : bot.py : [=] <-START->
+2022-11-01 21:30:34,451 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:30:36,241 : INFO : bot.py : [=] <-START->
+2022-11-01 21:32:29,471 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:32:35,632 : INFO : bot.py : [=] <-START->
+2022-11-01 21:43:33,937 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:46:04,504 : INFO : bot.py : [=] <-START->
+2022-11-01 21:46:33,079 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:47:09,803 : INFO : bot.py : [=] <-START->
+2022-11-01 21:47:37,650 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:48:13,395 : INFO : bot.py : [=] <-START->
+2022-11-01 21:53:06,630 : INFO : bot.py : [=] <-STOP->
+2022-11-01 21:53:08,545 : INFO : bot.py : [=] <-START->
+2022-11-01 21:53:48,317 : INFO : bot.py : [=] <-STOP->
+2022-11-01 22:02:19,582 : INFO : bot.py : [=] <-START->
+2022-11-01 22:04:10,907 : INFO : bot.py : [=] <-STOP->
+2022-11-01 22:04:12,293 : INFO : bot.py : [=] <-START->
+2022-11-01 22:04:41,239 : INFO : bot.py : [=] <-STOP->
+2022-11-01 22:04:42,927 : INFO : bot.py : [=] <-START->
+2022-11-02 01:49:56,524 : INFO : bot.py : [=] <-STOP->
+2022-11-02 01:51:08,064 : INFO : bot.py : [=] <-START->
+2022-11-02 01:51:59,424 : INFO : bot.py : [=] <-STOP->
+2022-11-02 01:56:03,471 : INFO : bot.py : [=] <-START->
+2022-11-02 01:57:02,583 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:08:34,925 : INFO : bot.py : [=] <-START->
+2022-11-02 02:33:04,112 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:33:14,727 : INFO : bot.py : [=] <-START->
+2022-11-02 02:35:10,301 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:35:12,265 : INFO : bot.py : [=] <-START->
+2022-11-02 02:35:54,767 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:39:11,810 : INFO : bot.py : [=] <-START->
+2022-11-02 02:44:02,221 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:44:42,558 : INFO : bot.py : [=] <-START->
+2022-11-02 02:51:20,337 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:54:18,374 : INFO : bot.py : [=] <-START->
+2022-11-02 02:56:14,374 : INFO : bot.py : [=] <-STOP->
+2022-11-02 02:56:16,721 : INFO : bot.py : [=] <-START->
+2022-11-02 03:11:06,807 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:11:10,716 : INFO : bot.py : [=] <-START->
+2022-11-02 03:12:02,785 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:12:04,616 : INFO : bot.py : [=] <-START->
+2022-11-02 03:18:23,533 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:18:36,198 : INFO : bot.py : [=] <-START->
+2022-11-02 03:19:48,999 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:19:50,512 : INFO : bot.py : [=] <-START->
+2022-11-02 03:20:31,511 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:20:33,255 : INFO : bot.py : [=] <-START->
+2022-11-02 03:22:21,051 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:22:22,480 : INFO : bot.py : [=] <-START->
+2022-11-02 03:23:08,896 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:23:10,221 : INFO : bot.py : [=] <-START->
+2022-11-02 03:27:18,042 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:27:19,648 : INFO : bot.py : [=] <-START->
+2022-11-02 03:34:50,259 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:34:51,581 : INFO : bot.py : [=] <-START->
+2022-11-02 03:43:33,949 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:43:38,165 : INFO : bot.py : [=] <-START->
+2022-11-02 03:44:14,751 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:44:16,091 : INFO : bot.py : [=] <-START->
+2022-11-02 03:47:10,624 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:47:32,356 : INFO : bot.py : [=] <-START->
+2022-11-02 03:49:38,180 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:49:40,877 : INFO : bot.py : [=] <-START->
+2022-11-02 03:54:04,839 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:54:06,171 : INFO : bot.py : [=] <-START->
+2022-11-02 03:58:49,186 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:58:50,386 : INFO : bot.py : [=] <-START->
+2022-11-02 03:59:41,435 : INFO : bot.py : [=] <-STOP->
+2022-11-02 03:59:42,452 : INFO : bot.py : [=] <-START->
+2022-11-02 04:10:15,765 : INFO : bot.py : [=] <-STOP->
+2022-11-02 04:10:30,793 : INFO : bot.py : [=] <-START->
+2022-11-02 04:10:39,354 : INFO : bot.py : [=] <-STOP->
+2022-11-02 04:11:22,469 : INFO : bot.py : [=] <-START->
+2022-11-02 04:12:00,606 : INFO : bot.py : [=] <-STOP->
+2022-11-02 04:14:14,648 : INFO : bot.py : [=] <-START->
+2022-11-02 04:22:47,790 : INFO : bot.py : [=] <-STOP->
+2022-11-02 04:22:50,168 : INFO : bot.py : [=] <-START->
+2022-11-02 04:30:47,731 : INFO : bot.py : [=] <-STOP->
+2022-11-02 18:13:04,638 : INFO : bot.py : [=] <-START->
+2022-11-02 18:13:45,249 : INFO : bot.py : [=] <-STOP->
+2022-11-02 18:13:48,882 : INFO : bot.py : [=] <-START->
+2022-11-02 18:19:43,713 : INFO : bot.py : [=] <-STOP->
+2022-11-02 18:19:45,144 : INFO : bot.py : [=] <-START->
+2022-11-02 18:25:58,616 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:00:14,916 : INFO : bot.py : [=] <-START->
+2022-11-02 19:01:53,808 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-02 19:05:22,719 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:05:33,514 : INFO : bot.py : [=] <-START->
+2022-11-02 19:07:34,225 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:07:35,768 : INFO : bot.py : [=] <-START->
+2022-11-02 19:15:24,125 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:15:26,030 : INFO : bot.py : [=] <-START->
+2022-11-02 19:17:31,842 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:17:33,502 : INFO : bot.py : [=] <-START->
+2022-11-02 19:18:06,842 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:18:08,361 : INFO : bot.py : [=] <-START->
+2022-11-02 19:24:44,038 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:27:15,990 : INFO : bot.py : [=] <-START->
+2022-11-02 19:29:31,357 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:29:32,655 : INFO : bot.py : [=] <-START->
+2022-11-02 19:30:00,208 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:31:51,128 : INFO : bot.py : [=] <-START->
+2022-11-02 19:37:58,706 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:38:00,121 : INFO : bot.py : [=] <-START->
+2022-11-02 19:42:04,379 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:42:06,257 : INFO : bot.py : [=] <-START->
+2022-11-02 19:56:59,825 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:57:01,270 : INFO : bot.py : [=] <-START->
+2022-11-02 19:57:48,186 : INFO : bot.py : [=] <-STOP->
+2022-11-02 19:57:50,367 : INFO : bot.py : [=] <-START->
+2022-11-02 20:02:21,555 : INFO : bot.py : [=] <-STOP->
+2022-11-02 20:02:23,280 : INFO : bot.py : [=] <-START->
+2022-11-02 20:06:01,353 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:21:16,140 : INFO : bot.py : [=] <-START->
+2022-11-02 23:23:15,915 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:23:18,346 : INFO : bot.py : [=] <-START->
+2022-11-02 23:24:40,536 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:24:41,832 : INFO : bot.py : [=] <-START->
+2022-11-02 23:25:26,774 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:39:41,000 : INFO : bot.py : [=] <-START->
+2022-11-02 23:40:04,121 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:40:06,073 : INFO : bot.py : [=] <-START->
+2022-11-02 23:41:04,486 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:41:06,146 : INFO : bot.py : [=] <-START->
+2022-11-02 23:41:36,420 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:41:45,867 : INFO : bot.py : [=] <-START->
+2022-11-02 23:42:27,841 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:42:29,135 : INFO : bot.py : [=] <-START->
+2022-11-02 23:43:11,125 : INFO : bot.py : [=] <-STOP->
+2022-11-02 23:45:52,824 : INFO : bot.py : [=] <-START->
+2022-11-02 23:55:39,075 : INFO : bot.py : [=] <-STOP->
+2022-11-03 14:28:51,266 : INFO : bot.py : [=] <-START->
+2022-11-03 14:29:46,275 : INFO : bot.py : [+] New user with id = 879707829 and username = offi_dani
+2022-11-03 14:30:35,126 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-03 14:31:35,780 : INFO : bot.py : [+] New user with id = 879707829 and username = offi_dani
+2022-11-03 14:31:52,374 : INFO : bot.py : [=] <-STOP->
+2022-11-03 14:31:55,350 : INFO : bot.py : [=] <-START->
+2022-11-03 14:32:06,670 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-03 14:32:36,419 : INFO : bot.py : [=] <-STOP->
+2022-11-03 14:32:58,518 : INFO : bot.py : [=] <-START->
+2022-11-03 14:33:31,152 : INFO : bot.py : [+] New user with id = 490483818 and username = SsXxX_1
+2022-11-03 14:34:32,981 : INFO : bot.py : [+] New user with id = 879707829 and username = offi_dani
+2022-11-03 14:34:58,653 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-03 14:38:47,119 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 17:51:48,656 : INFO : bot.py : [=] <-STOP->
+2022-11-03 17:51:51,170 : INFO : bot.py : [=] <-START->
+2022-11-03 18:09:30,723 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:09:32,249 : INFO : bot.py : [=] <-START->
+2022-11-03 18:13:39,712 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:17:38,884 : INFO : bot.py : [=] <-START->
+2022-11-03 18:18:22,714 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:19:25,494 : INFO : bot.py : [=] <-START->
+2022-11-03 18:21:06,513 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:21:07,952 : INFO : bot.py : [=] <-START->
+2022-11-03 18:21:53,437 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:21:54,859 : INFO : bot.py : [=] <-START->
+2022-11-03 18:22:53,715 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:22:55,708 : INFO : bot.py : [=] <-START->
+2022-11-03 18:24:02,665 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:24:04,635 : INFO : bot.py : [=] <-START->
+2022-11-03 18:27:22,045 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:27:23,581 : INFO : bot.py : [=] <-START->
+2022-11-03 18:28:23,988 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:28:40,630 : INFO : bot.py : [=] <-START->
+2022-11-03 18:28:43,466 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 18:29:13,357 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 18:30:50,337 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:30:52,240 : INFO : bot.py : [=] <-START->
+2022-11-03 18:30:54,937 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 18:31:30,408 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:31:31,781 : INFO : bot.py : [=] <-START->
+2022-11-03 18:31:34,775 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 18:43:53,317 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:43:54,783 : INFO : bot.py : [=] <-START->
+2022-11-03 18:44:40,291 : INFO : bot.py : [=] <-STOP->
+2022-11-03 18:44:41,508 : INFO : bot.py : [=] <-START->
+2022-11-03 18:52:00,728 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:24:47,753 : INFO : bot.py : [=] <-START->
+2022-11-03 19:29:19,651 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:29:21,214 : INFO : bot.py : [=] <-START->
+2022-11-03 19:30:12,162 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:30:13,814 : INFO : bot.py : [=] <-START->
+2022-11-03 19:30:45,698 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:30:47,257 : INFO : bot.py : [=] <-START->
+2022-11-03 19:32:01,040 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:32:02,471 : INFO : bot.py : [=] <-START->
+2022-11-03 19:33:19,805 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:33:21,296 : INFO : bot.py : [=] <-START->
+2022-11-03 19:34:05,913 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:34:07,271 : INFO : bot.py : [=] <-START->
+2022-11-03 19:34:53,533 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:35:12,001 : INFO : bot.py : [=] <-START->
+2022-11-03 19:35:52,938 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:35:54,791 : INFO : bot.py : [=] <-START->
+2022-11-03 19:36:38,496 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:37:05,893 : INFO : bot.py : [=] <-START->
+2022-11-03 19:38:19,394 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:38:21,900 : INFO : bot.py : [=] <-START->
+2022-11-03 19:38:48,544 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:38:49,996 : INFO : bot.py : [=] <-START->
+2022-11-03 19:39:14,456 : INFO : bot.py : [=] <-STOP->
+2022-11-03 19:44:04,893 : INFO : bot.py : [=] <-START->
+2022-11-03 19:44:07,088 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-03 19:57:52,677 : INFO : bot.py : [=] <-STOP->
+2022-11-04 17:33:43,108 : INFO : bot.py : [=] <-START->
+2022-11-04 17:37:17,516 : INFO : bot.py : [=] <-STOP->
+2022-11-04 17:41:40,182 : INFO : bot.py : [=] <-START->
+2022-11-04 17:41:41,557 : INFO : bot.py : [=] <-STOP->
+2022-11-04 17:41:54,510 : INFO : bot.py : [=] <-START->
+2022-11-04 17:46:12,311 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:00:51,398 : INFO : bot.py : [=] <-START->
+2022-11-04 18:01:20,278 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:01:21,733 : INFO : bot.py : [=] <-START->
+2022-11-04 18:07:03,096 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:07:04,521 : INFO : bot.py : [=] <-START->
+2022-11-04 18:08:14,716 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:24:07,541 : INFO : bot.py : [=] <-START->
+2022-11-04 18:26:13,884 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:26:15,592 : INFO : bot.py : [=] <-START->
+2022-11-04 18:27:16,938 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:27:18,757 : INFO : bot.py : [=] <-START->
+2022-11-04 18:36:31,421 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:36:33,086 : INFO : bot.py : [=] <-START->
+2022-11-04 18:38:33,619 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:38:34,925 : INFO : bot.py : [=] <-START->
+2022-11-04 18:51:01,502 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:51:03,494 : INFO : bot.py : [=] <-START->
+2022-11-04 18:51:41,712 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:51:43,179 : INFO : bot.py : [=] <-START->
+2022-11-04 18:52:23,544 : INFO : bot.py : [=] <-STOP->
+2022-11-04 18:52:25,014 : INFO : bot.py : [=] <-START->
+2022-11-04 19:06:03,492 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:06:24,348 : INFO : bot.py : [=] <-START->
+2022-11-04 19:16:54,214 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:17:07,026 : INFO : bot.py : [=] <-START->
+2022-11-04 19:18:22,583 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:18:24,253 : INFO : bot.py : [=] <-START->
+2022-11-04 19:25:13,840 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:25:22,490 : INFO : bot.py : [=] <-START->
+2022-11-04 19:29:48,220 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:29:50,208 : INFO : bot.py : [=] <-START->
+2022-11-04 19:36:05,660 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:36:07,726 : INFO : bot.py : [=] <-START->
+2022-11-04 19:38:05,023 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:38:07,307 : INFO : bot.py : [=] <-START->
+2022-11-04 19:42:43,798 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:42:45,707 : INFO : bot.py : [=] <-START->
+2022-11-04 19:44:25,625 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:44:27,783 : INFO : bot.py : [=] <-START->
+2022-11-04 19:45:40,919 : INFO : bot.py : [=] <-STOP->
+2022-11-04 19:45:42,719 : INFO : bot.py : [=] <-START->
+2022-11-04 19:47:34,038 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:00:21,502 : INFO : bot.py : [=] <-START->
+2022-11-05 17:01:27,970 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:01:29,460 : INFO : bot.py : [=] <-START->
+2022-11-05 17:02:34,086 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:02:35,497 : INFO : bot.py : [=] <-START->
+2022-11-05 17:05:37,835 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:14:10,628 : INFO : bot.py : [=] <-START->
+2022-11-05 17:16:02,895 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:16:05,099 : INFO : bot.py : [=] <-START->
+2022-11-05 17:22:15,325 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:22:16,684 : INFO : bot.py : [=] <-START->
+2022-11-05 17:22:59,716 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:23:02,949 : INFO : bot.py : [=] <-START->
+2022-11-05 17:23:58,123 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:24:00,562 : INFO : bot.py : [=] <-START->
+2022-11-05 17:25:46,979 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:25:48,190 : INFO : bot.py : [=] <-START->
+2022-11-05 17:27:00,213 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:27:02,510 : INFO : bot.py : [=] <-START->
+2022-11-05 17:28:38,206 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:28:40,515 : INFO : bot.py : [=] <-START->
+2022-11-05 17:29:55,078 : INFO : bot.py : [=] <-STOP->
+2022-11-05 17:29:56,551 : INFO : bot.py : [=] <-START->
+2022-11-05 19:04:59,376 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:05:01,051 : INFO : bot.py : [=] <-START->
+2022-11-05 19:15:38,681 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:15:40,376 : INFO : bot.py : [=] <-START->
+2022-11-05 19:22:04,430 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:22:11,790 : INFO : bot.py : [=] <-START->
+2022-11-05 19:25:23,128 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:25:25,259 : INFO : bot.py : [=] <-START->
+2022-11-05 19:51:10,413 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:51:24,693 : INFO : bot.py : [=] <-START->
+2022-11-05 19:54:29,064 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:54:30,628 : INFO : bot.py : [=] <-START->
+2022-11-05 19:55:39,410 : INFO : bot.py : [=] <-STOP->
+2022-11-05 19:55:41,017 : INFO : bot.py : [=] <-START->
+2022-11-06 16:08:02,450 : INFO : bot.py : [=] <-STOP->
+2022-11-06 16:10:13,598 : INFO : bot.py : [=] <-START->
+2022-11-06 16:16:24,595 : INFO : bot.py : [=] <-STOP->
+2022-11-06 16:16:25,974 : INFO : bot.py : [=] <-START->
+2022-11-06 17:10:59,851 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:11:01,395 : INFO : bot.py : [=] <-START->
+2022-11-06 17:11:41,315 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:11:42,615 : INFO : bot.py : [=] <-START->
+2022-11-06 17:12:28,091 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:12:29,314 : INFO : bot.py : [=] <-START->
+2022-11-06 17:13:28,904 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:13:30,413 : INFO : bot.py : [=] <-START->
+2022-11-06 17:14:42,224 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:14:43,620 : INFO : bot.py : [=] <-START->
+2022-11-06 17:16:48,533 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:16:49,879 : INFO : bot.py : [=] <-START->
+2022-11-06 17:18:12,751 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:18:13,975 : INFO : bot.py : [=] <-START->
+2022-11-06 17:21:40,479 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:21:42,110 : INFO : bot.py : [=] <-START->
+2022-11-06 17:45:59,456 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:46:00,806 : INFO : bot.py : [=] <-START->
+2022-11-06 17:56:06,861 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:56:08,535 : INFO : bot.py : [=] <-START->
+2022-11-06 17:59:31,579 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:59:32,963 : INFO : bot.py : [=] <-START->
+2022-11-06 17:59:33,686 : INFO : bot.py : [=] <-STOP->
+2022-11-06 17:59:38,610 : INFO : bot.py : [=] <-START->
+2022-11-06 17:59:49,266 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:00:21,286 : INFO : bot.py : [=] <-START->
+2022-11-06 18:03:19,090 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:03:20,316 : INFO : bot.py : [=] <-START->
+2022-11-06 18:10:13,463 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-06 18:12:04,877 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:12:06,142 : INFO : bot.py : [=] <-START->
+2022-11-06 18:18:09,385 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:18:10,767 : INFO : bot.py : [=] <-START->
+2022-11-06 18:18:24,930 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:18:26,018 : INFO : bot.py : [=] <-START->
+2022-11-06 18:19:49,489 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:19:52,900 : INFO : bot.py : [=] <-START->
+2022-11-06 18:20:50,674 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:20:52,075 : INFO : bot.py : [=] <-START->
+2022-11-06 18:25:56,175 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:25:57,473 : INFO : bot.py : [=] <-START->
+2022-11-06 18:26:53,757 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:26:54,967 : INFO : bot.py : [=] <-START->
+2022-11-06 18:52:55,544 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:52:57,258 : INFO : bot.py : [=] <-START->
+2022-11-06 18:53:51,863 : INFO : bot.py : [=] <-STOP->
+2022-11-06 18:53:53,198 : INFO : bot.py : [=] <-START->
+2022-11-06 18:54:45,826 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-06 18:56:20,673 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-06 19:01:08,339 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:01:48,679 : INFO : bot.py : [=] <-START->
+2022-11-06 19:06:32,702 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:06:34,318 : INFO : bot.py : [=] <-START->
+2022-11-06 19:08:06,121 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:08:07,412 : INFO : bot.py : [=] <-START->
+2022-11-06 19:10:44,546 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:10:46,040 : INFO : bot.py : [=] <-START->
+2022-11-06 19:15:38,280 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:15:39,850 : INFO : bot.py : [=] <-START->
+2022-11-06 19:17:25,951 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:17:27,671 : INFO : bot.py : [=] <-START->
+2022-11-06 19:21:21,225 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:21:23,677 : INFO : bot.py : [=] <-START->
+2022-11-06 19:23:02,842 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:23:05,675 : INFO : bot.py : [=] <-START->
+2022-11-06 19:25:31,541 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:25:33,858 : INFO : bot.py : [=] <-START->
+2022-11-06 19:43:09,372 : INFO : bot.py : [=] <-STOP->
+2022-11-06 19:47:06,159 : INFO : bot.py : [=] <-START->
+2022-11-07 17:19:40,377 : INFO : bot.py : [=] <-STOP->
+2022-11-07 22:52:35,931 : INFO : bot.py : [=] <-START->
+2022-11-07 23:45:08,366 : INFO : bot.py : [=] <-STOP->
+2022-11-07 23:45:13,472 : INFO : bot.py : [=] <-START->
+2022-11-07 23:53:38,728 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:08:00,200 : INFO : bot.py : [=] <-START->
+2022-11-24 19:10:43,488 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:10:45,010 : INFO : bot.py : [=] <-START->
+2022-11-24 19:12:06,614 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:12:09,337 : INFO : bot.py : [=] <-START->
+2022-11-24 19:13:53,152 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:13:55,909 : INFO : bot.py : [=] <-START->
+2022-11-24 19:16:10,469 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:16:12,026 : INFO : bot.py : [=] <-START->
+2022-11-24 19:16:37,223 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:16:38,410 : INFO : bot.py : [=] <-START->
+2022-11-24 19:18:00,665 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:18:02,082 : INFO : bot.py : [=] <-START->
+2022-11-24 19:18:45,325 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:18:46,505 : INFO : bot.py : [=] <-START->
+2022-11-24 19:22:40,918 : INFO : bot.py : [=] <-STOP->
+2022-11-24 19:22:42,325 : INFO : bot.py : [=] <-START->
+2022-11-24 19:29:07,184 : INFO : bot.py : [+] Info about user with id = 879707829 updated
+2022-11-24 19:31:43,157 : INFO : bot.py : [=] <-STOP->
+2022-11-25 16:39:13,361 : INFO : bot.py : [=] <-START->
+2022-11-25 16:40:48,939 : INFO : bot.py : [=] <-STOP->
+2022-11-25 16:40:50,226 : INFO : bot.py : [=] <-START->
+2022-11-25 16:41:31,591 : INFO : bot.py : [=] <-STOP->
+2022-11-25 16:41:32,697 : INFO : bot.py : [=] <-START->
+2022-11-25 16:41:46,399 : INFO : bot.py : [=] <-STOP->
+2022-11-25 23:52:53,868 : INFO : bot.py : [=] <-START->
+2022-11-25 23:53:58,775 : INFO : bot.py : [=] <-STOP->
+2022-11-25 23:54:00,593 : INFO : bot.py : [=] <-START->
+2022-11-25 23:54:28,921 : INFO : bot.py : [=] <-STOP->
+2022-11-25 23:54:29,867 : INFO : bot.py : [=] <-START->
+2022-11-25 23:55:22,427 : INFO : bot.py : [=] <-STOP->
+2022-11-25 23:55:23,433 : INFO : bot.py : [=] <-START->
+2022-11-25 23:58:17,850 : INFO : bot.py : [=] <-STOP->
+2022-11-25 23:58:18,871 : INFO : bot.py : [=] <-START->
+2022-11-26 00:22:56,448 : INFO : bot.py : [=] <-STOP->
+2022-11-26 00:22:57,774 : INFO : bot.py : [=] <-START->
+2022-11-26 00:25:19,302 : INFO : bot.py : [=] <-STOP->
+2022-11-26 00:25:20,389 : INFO : bot.py : [=] <-START->
+2022-11-26 00:32:40,033 : INFO : bot.py : [=] <-STOP->
+2022-11-26 00:32:43,611 : INFO : bot.py : [=] <-START->
+2022-11-26 00:34:30,355 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-26 00:39:31,176 : INFO : bot.py : [=] <-STOP->
+2022-11-26 00:40:22,364 : INFO : bot.py : [=] <-START->
+2022-11-26 00:40:34,578 : INFO : bot.py : [+] Info about user with id = 490483818 updated
+2022-11-26 00:41:45,915 : INFO : bot.py : [=] <-STOP->
+2022-11-26 00:41:47,160 : INFO : bot.py : [=] <-START->
+2022-11-26 00:43:30,550 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:17:45,167 : INFO : bot.py : [=] <-START->
+2022-11-27 15:18:35,817 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:18:37,640 : INFO : bot.py : [=] <-START->
+2022-11-27 15:20:46,875 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:20:48,833 : INFO : bot.py : [=] <-START->
+2022-11-27 15:22:34,394 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:22:38,061 : INFO : bot.py : [=] <-START->
+2022-11-27 15:25:09,224 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:25:10,875 : INFO : bot.py : [=] <-START->
+2022-11-27 15:27:29,085 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:27:30,718 : INFO : bot.py : [=] <-START->
+2022-11-27 15:28:01,248 : INFO : bot.py : [=] <-STOP->
+2022-11-27 15:28:02,917 : INFO : bot.py : [=] <-START->
+2022-11-27 15:30:44,735 : INFO : bot.py : [=] <-STOP->
+2022-11-27 16:58:15,392 : INFO : bot.py : [=] <-START->
+2022-11-27 16:58:32,017 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:00:11,673 : INFO : bot.py : [=] <-START->
+2022-11-27 17:00:34,695 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:01:59,770 : INFO : bot.py : [=] <-START->
+2022-11-27 17:03:04,033 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:18:02,437 : INFO : bot.py : [=] <-START->
+2022-11-27 17:18:20,628 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:18:22,344 : INFO : bot.py : [=] <-START->
+2022-11-27 17:19:54,389 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:19:56,313 : INFO : bot.py : [=] <-START->
+2022-11-27 17:21:06,123 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:21:07,591 : INFO : bot.py : [=] <-START->
+2022-11-27 17:24:39,770 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:24:41,420 : INFO : bot.py : [=] <-START->
+2022-11-27 17:25:47,591 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:25:49,091 : INFO : bot.py : [=] <-START->
+2022-11-27 17:26:54,471 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:26:56,937 : INFO : bot.py : [=] <-START->
+2022-11-27 17:30:38,965 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:31:25,836 : INFO : bot.py : [=] <-START->
+2022-11-27 17:33:26,196 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:33:28,055 : INFO : bot.py : [=] <-START->
+2022-11-27 17:38:27,373 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:38:28,966 : INFO : bot.py : [=] <-START->
+2022-11-27 17:40:56,836 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:40:58,395 : INFO : bot.py : [=] <-START->
+2022-11-27 17:42:25,834 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:42:27,775 : INFO : bot.py : [=] <-START->
+2022-11-27 17:45:16,937 : INFO : bot.py : [=] <-STOP->
+2022-11-27 17:45:18,587 : INFO : bot.py : [=] <-START->
+2022-11-27 17:46:31,869 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:19:02,962 : INFO : bot.py : [=] <-START->
+2022-11-27 18:21:26,511 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:21:32,476 : INFO : bot.py : [=] <-START->
+2022-11-27 18:28:25,037 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:28:29,794 : INFO : bot.py : [=] <-START->
+2022-11-27 18:34:26,237 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:34:30,878 : INFO : bot.py : [=] <-START->
+2022-11-27 18:35:04,355 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:45:59,362 : INFO : bot.py : [=] <-START->
+2022-11-27 18:46:45,620 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:46:47,033 : INFO : bot.py : [=] <-START->
+2022-11-27 18:52:26,308 : INFO : bot.py : [=] <-STOP->
+2022-11-27 18:52:28,084 : INFO : bot.py : [=] <-START->
+2022-11-27 18:54:55,224 : INFO : bot.py : [=] <-STOP->

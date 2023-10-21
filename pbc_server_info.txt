@@ -1,0 +1,17 @@
+IP: 1.1.1.1
+Port: 2222
+
+Путь к папке проекта: /home/main_user/pbc
+Владелец проекта: main_user
+Подключиться по ssh можно только через ssh_user
+
+* Редактировать, менять имя или удалять содержимое pbc может только root
+
+User: root
+Password: wevwev34f
+
+User: main_user
+Password: uo2v4974v292&*9b
+
+User: ssh_user
+Password: DUYvcuyo3*G)87v8
